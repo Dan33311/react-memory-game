@@ -1,8 +1,8 @@
 # My notes
 
 `create-react-app`
-Clean initial config from create React app command
-
+### 1. Clean initial config from create React app command
+### 2. Build a card images array
 
 
 # Others
